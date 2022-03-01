@@ -1,1 +1,15 @@
-# reactdev-rahul-rajan-nair
+
+## Development
+
+Dependencies Install run:
+
+```
+npm install
+```
+
+Development Environment run:
+
+```
+npm start
+```
+##
